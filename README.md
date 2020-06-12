@@ -1,8 +1,9 @@
 # pandas-for-datascience
 
 This the codes for the tutorial series by Corey Schafer.
-These notebooks will be useful for complete begineers in pandas/dataScience but having some knowledge of ptyhon.
+These notebooks will be useful for complete beginners in pandas/dataScience but having some knowledge of python.
 
-Throughout series we will be using stackoverflow 2019 survey dataset.
+Throughout the series, we will be using StackOverflow 2019 survey dataset.
+> dataset download [link](https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV)
 
-Each notebook will be the extension of previos one.
+Each notebook will be the extension of the previous one.
